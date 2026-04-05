@@ -1,2 +1,0 @@
-# Wealthome
-demonstation webapp
